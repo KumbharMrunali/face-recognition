@@ -1,1 +1,1 @@
-# face-recognition
+A face recognition system in JavaScript uses libraries like face-api.js to detect and recognize faces in real-time via a webcam. It captures video frames, processes them to identify facial landmarks, and matches them against a database of known faces. This technology is widely used for security, authentication, and personalized user experiences. It combines computer vision and machine learning to accurately identify individuals.
